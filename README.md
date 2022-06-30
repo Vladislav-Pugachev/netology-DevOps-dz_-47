@@ -17,7 +17,7 @@
 ![grafana](./screen/dashboard.png)
 
 
-### Задание 3
+## Задание 3
 
 #### Итоговый dashboard
 
@@ -29,7 +29,7 @@
 
 ![telegram](./screen/telegram.png)
 
-### Задание 4
+## Задание 4
 
 ```
 {
